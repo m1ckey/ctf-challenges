@@ -1,2 +1,2 @@
 # ctf-challenges
-challenges i made
+Challenges I made
